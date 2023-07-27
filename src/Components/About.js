@@ -7,11 +7,15 @@ const About = () => {
       name: 'Naruto',
       role: 'CEO',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-      img: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fstaticg.sportskeeda.com%2Feditor%2F2022%2F08%2F53e15-16596004347246.png%3Fw%3D840&tbnid=kWVsVVfqP_aULM&vet=12ahUKEwjrvOa-oK6AAxVQgv0HHWIqAnoQMygGegUIARD8AQ..i&imgrefurl=https%3A%2F%2Fwiki.sportskeeda.com%2Fnaruto%2Fnaruto-uzumaki&docid=Xi5cUqTYzP1rWM&w=840&h=471&q=naruto&ved=2ahUKEwjrvOa-oK6AAxVQgv0HHWIqAnoQMygGegUIARD8AQ'
     },
     {
       name: 'Sasuke',
       role: 'CFO',
+      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    },
+    {
+      name: 'Gaara',
+      role: 'MD',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     }
   ];

@@ -7,7 +7,7 @@ const NavBar = () => {
     <>
         <nav className="navbar navbar-expand-md justify-content-center bg-dark navbar-dark">
             <div className="container bg-info-dark">
-                <Link className="navbar-brand" to="/">EDUCATIVO</Link>
+                <Link className="navbar-brand" to="/">Programming</Link>
                 <div className="collapse navbar-collapse">
                     <ul className="navbar-nav me-auto">
                         <li className="nav-item">
