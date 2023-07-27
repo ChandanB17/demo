@@ -8,7 +8,6 @@ import NavBar from "./Components/NavBar";
 import Login from "./Components/Login";
 import Signup from "./Components/Signup";
 
-
 function App() {
   return (
     <>
@@ -31,4 +30,4 @@ function App() {
 
 export default App
 
-//hi 
+//completed
